@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "608933741155",
+    "project_id": "spin-wheel-1eac7",
+    "storage_bucket": "spin-wheel-1eac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608933741155:android:8ce56494fd83ec8ed0ae56",
+        "android_client_info": {
+          "package_name": "com.example.spin_wheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608933741155-l9dc8rvobnie3282sgcrpcd54aegfi95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spin_wheel",
+            "certificate_hash": "9933b7f84610c077f0e514b9871c3c9aac1d0e40"
+          }
+        },
+        {
+          "client_id": "608933741155-04qn0rpvluvkk3eue6rm16fp6cn7khfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA62QzQy3nyYU2mLEVwsqUws0Nw2itHDYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608933741155-04qn0rpvluvkk3eue6rm16fp6cn7khfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
